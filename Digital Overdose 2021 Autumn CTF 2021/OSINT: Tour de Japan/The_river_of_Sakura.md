@@ -9,5 +9,7 @@ In this challenge, you just need to use google search with the title of the chal
 Just scroll down and you will see this: \
 ![image](https://user-images.githubusercontent.com/64829950/136960491-b78f8595-a83b-41da-9ce6-7e37d47c04af.png)
 
-Try flag: DO{Meguro_River}
+Try flag: DO{Meguro_River} \
 And it's accept!
+
+P/s: So the lesson here is just search the challenge title first =,=
