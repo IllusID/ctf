@@ -7,7 +7,7 @@ Using google image search with the keyword "japan drinks": \
 ![image](https://user-images.githubusercontent.com/64829950/136957903-a8ba25d8-c370-4356-b4c6-940eae6c22c3.png)
 
 As the result, you can see a lots about melon and cream soda or even matcha latte:
-![image](https://user-images.githubusercontent.com/64829950/136958522-ce58a519-a073-4f86-894e-bbf189b45b32.png)
+![image](https://user-images.githubusercontent.com/64829950/136958883-b9aa010d-b0e7-4314-a192-0de447dfe4c4.png)
 
 Try flag: DO{melon_soda} \
 And it's correct!
