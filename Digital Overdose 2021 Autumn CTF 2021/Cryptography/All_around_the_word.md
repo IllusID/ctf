@@ -30,5 +30,5 @@ I'm using Google lens app to find out those flags: \
   9. Yemen: \
   ![image](https://user-images.githubusercontent.com/64829950/136968481-177dfe28-a20e-4de9-905c-436dbf855b39.png)
   
-Read the first letter of all given flags with order: \
+Write down the first letter of all given flags with order: \
 => flag of this challenge: DO{GEOGRAPHY}
