@@ -19,7 +19,7 @@ I'm using Google lens app to find out those flags: \
   ![image](https://user-images.githubusercontent.com/64829950/136968202-67c7db33-8ced-4b1a-86c6-184c3bdec636.png)
   
   6. Antigua: \
-  ![image](https://user-images.githubusercontent.com/64829950/136968265-83e8e035-cf14-4d4a-9223-6ec8b6956256.png)
+  ![image](https://user-images.githubusercontent.com/64829950/136968857-58ae0ef9-2dbc-44e9-9c61-1f7f33455051.png)
 
   7. Palau: \
   ![image](https://user-images.githubusercontent.com/64829950/136968350-268b9e5e-6fc5-4aa0-bc45-a922b4eae932.png)
@@ -30,5 +30,5 @@ I'm using Google lens app to find out those flags: \
   9. Yemen: \
   ![image](https://user-images.githubusercontent.com/64829950/136968481-177dfe28-a20e-4de9-905c-436dbf855b39.png)
   
-Read the first letter of all given flags with order: 
+Read the first letter of all given flags with order: \
 => flag of this challenge: DO{GEOGRAPHY}
